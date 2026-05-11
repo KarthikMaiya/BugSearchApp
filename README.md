@@ -73,6 +73,9 @@ Instead of keyword matching, it understands the **meaning of error descriptions*
 4. Top matching bugs are returned
 5. User can open bug directly in Azure DevOps
 
+<img width="1251" height="784" alt="image" src="https://github.com/user-attachments/assets/71f28f1f-c822-4a51-8135-bb32b8b029a3" />
+
+
 ---
 
 ### 🔄 Refresh Flow
